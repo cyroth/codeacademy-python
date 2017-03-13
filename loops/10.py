@@ -1,4 +1,5 @@
 #For your hobbies
+#Create a for loop that prompts the user for a hobby 3 times, then appends each one to hobbies.
 hobbies = []
 
 # Add your code below!

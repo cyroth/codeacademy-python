@@ -1,4 +1,5 @@
 #For / else
+#Modify the code in the editor such that the for loop's else statement is executed.
 fruits = ['banana', 'apple', 'orange', 'tomato', 'pear', 'grape']
 
 print 'You have...'
