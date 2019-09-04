@@ -2,13 +2,13 @@
 def the_flying_circus():
     answer = "right one"
     if answer =="wrong":    # Start coding here!
-        print answer
+        print(answer)
         # the code inside this block!
     elif answer=="right  one":
-        print answer
+        print(answer)
         # You'll want to add the else statement, too!
     elif 1>2 and 2<4:
             return
     else:
-        print the_flying_circus()
+        print(the_flying_circus())
         return True

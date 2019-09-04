@@ -1,5 +1,5 @@
 #For your health
-print "Counting..."
+print("Counting...")
 
 for i in range(20):
-    print i
+    print(i)

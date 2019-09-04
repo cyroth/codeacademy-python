@@ -3,10 +3,10 @@
 thing = "spam!"
 
 for c in thing:
-    print c
+    print(c)
 
 word = "eggs!"
 
 # Your code here!
 for w in word:
-    print w
+    print(w)

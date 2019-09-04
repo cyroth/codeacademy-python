@@ -5,4 +5,4 @@ def my_function(x):
         x[i] = x[i] * 2
     return x
 
-print my_function(range(0,3)) # Add your range between the parentheses!
+print(my_function(list(range(0,3)))) # Add your range between the parentheses!
