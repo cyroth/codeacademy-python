@@ -1,4 +1,5 @@
 from random import randint
+from builtins import input
 #initalise the board
 board = []
 #fill out 0 for the board

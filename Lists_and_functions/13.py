@@ -7,4 +7,8 @@ def double_list(x):
 # Don't forget to return your new list!
     return x
 
+<<<<<<< HEAD
 print (double_list(n))
+=======
+print(double_list(n))
+>>>>>>> 546cb0aea475b47e30c64b4850f8f308dd9e916a

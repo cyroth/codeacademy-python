@@ -3,10 +3,10 @@
 hobbies = []
 
 # Add your code below!
-print "enter 3 hobbies one at a time"
+print("enter 3 hobbies one at a time")
 for count in range(3):
-    hobby = str(raw_input("Your hobby: "))
+    hobby = str(input("Your hobby: "))
     hobbies.append(hobby)
-print "---------------"
-print "list of hobbies"
-print hobbies
+print("---------------")
+print("list of hobbies")
+print(hobbies)

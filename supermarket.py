@@ -14,10 +14,10 @@ stock = {
 #initialise outside of the loop
 total = 0
 for key in prices:
-    print key
-    print "price: %s" % prices[key]
-    print "stock: %s" % stock[key]
+    print(key)
+    print("price: %s" % prices[key])
+    print("stock: %s" % stock[key])
 #note += adds to the running total
     total += stock[key] * prices[key]
 #print outside of the loop
-print total
+print(total)

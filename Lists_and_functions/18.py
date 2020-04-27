@@ -7,4 +7,8 @@ def flatten(lists):
         for number in numbers:
             results.append(number)
     return results
+<<<<<<< HEAD
 print (flatten(n))
+=======
+print(flatten(n))
+>>>>>>> 546cb0aea475b47e30c64b4850f8f308dd9e916a

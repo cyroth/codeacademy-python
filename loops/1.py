@@ -5,8 +5,15 @@
 count = 0
 
 if count < 10:
+<<<<<<< HEAD
     print ("Hello, I am an if statement and count is", count)
 
 while count < 10:
     print ("Hello, I am a while and count is", count)
+=======
+    print("Hello, I am an if statement and count is", count)
+
+while count < 10:
+    print("Hello, I am a while and count is", count)
+>>>>>>> 546cb0aea475b47e30c64b4850f8f308dd9e916a
     count += 1
