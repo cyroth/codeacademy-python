@@ -18,14 +18,7 @@ tyler = {
 }
 students = [lloyd,alice,tyler]
 for student in students:
-<<<<<<< HEAD
-    print (student["name"])
-    print (student["homework"])
-    print (student["quizzes"])
-    print (student["tests"])
-=======
     print((student["name"]))
     print((student["homework"]))
     print((student["quizzes"]))
     print((student["tests"]))
->>>>>>> 546cb0aea475b47e30c64b4850f8f308dd9e916a
